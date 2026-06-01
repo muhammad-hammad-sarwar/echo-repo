@@ -1,8 +1,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/echorepo.git
-cd echorepo
+git clone https://github.com/your-username/echo-repo.git
+cd echo-repo
 npm install
 ```
 
