@@ -1,6 +1,8 @@
 # GitHub Repository Health Dashboard
 
-A lightweight Next.js App Router project that analyzes a GitHub repository with a simple trust score based on activity, contributors, and issue backlog.
+Health Score is a derived metric that summarizes repository activity, maintenance quality, and community engagement using GitHub API signals.
+
+It is not an official GitHub metric. It is a heuristic-based decision score designed to help developers quickly evaluate whether a repository appears actively maintained and safe to depend on.
 
 ## Setup
 
